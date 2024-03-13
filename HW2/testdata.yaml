@@ -1,0 +1,9 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 3
+email: LenOK
+password: 1a8435b14a
+title: New test post
+description: Test description
+content: Test content
