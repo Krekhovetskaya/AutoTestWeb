@@ -1,0 +1,24 @@
+2024-03-17 16:43:04 INFO ====== WebDriver manager ======
+2024-03-17 16:43:05 INFO Get LATEST chromedriver version for google-chrome
+2024-03-17 16:43:05 INFO Get LATEST chromedriver version for google-chrome
+2024-03-17 16:43:05 INFO Get LATEST chromedriver version for google-chrome
+2024-03-17 16:43:05 INFO WebDriver version 122.0.6261.128 selected
+2024-03-17 16:43:05 INFO Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-03-17 16:43:05 INFO About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.128/win32/chromedriver-win32.zip
+2024-03-17 16:43:05 INFO Driver downloading response is 200
+2024-03-17 16:43:06 INFO Get LATEST chromedriver version for google-chrome
+2024-03-17 16:43:06 INFO Driver has been saved in cache [C:\Users\Akreh\.wdm\drivers\chromedriver\win64\122.0.6261.128]
+2024-03-17 16:43:07 INFO Test login_positive Starting
+2024-03-17 16:43:08 INFO Send 'LenOK' to element //*[@id="login"]/div[1]/label/input
+2024-03-17 16:43:08 INFO Send '1a8435b14a' to element //*[@id="login"]/div[2]/label/input
+2024-03-17 16:43:08 INFO Click login button
+2024-03-17 16:43:08 INFO Start find success text
+2024-03-17 16:43:09 INFO We find text 'Hello, LenOK' in login field //*[@id="app"]/main/nav/ul/li[3]/a
+2024-03-17 16:43:09 INFO Test add_post Starting
+2024-03-17 16:43:09 INFO Click contact button
+2024-03-17 16:43:10 INFO Send 'LenOK' to element //*[@id="contact"]/div[1]/label/input
+2024-03-17 16:43:10 INFO Send 'okinaliza@gmail.com' to element //*[@id = "contact"]/div[2]/label/input
+2024-03-17 16:43:10 INFO Send 'hello hello' to element //*[@id = "contact"]/div[3]/label/span/textarea
+2024-03-17 16:43:10 INFO Click contact us button
+2024-03-17 16:43:11 INFO Get alert message
+2024-03-17 16:43:11 INFO Alert message is Form successfully submitted
