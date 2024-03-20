@@ -1,0 +1,9 @@
+2024-03-19 15:48:07 INFO ====== WebDriver manager ======
+2024-03-19 15:48:08 INFO Get LATEST chromedriver version for google-chrome
+2024-03-19 15:48:08 INFO Get LATEST chromedriver version for google-chrome
+2024-03-19 15:48:08 INFO Driver [C:\Users\Akreh\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-19 15:48:09 INFO Test login_negative Starting
+2024-03-19 15:48:11 INFO Test login_positive Starting
+2024-03-19 15:48:12 INFO Test add_post Starting
+2024-03-19 15:48:13 INFO Test contact_us Starting
+2024-03-19 15:48:17 INFO Get alert message

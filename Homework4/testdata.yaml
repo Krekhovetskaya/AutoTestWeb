@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: LenOK
+pswd: 1a8435b14a
+
+
+title: New test post
+description: Test description
+content:  Test content
+
+u_name: LenOK
+u_email: okinaliza@gmail.com
+content_contact: hello hello
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: qwerty
